@@ -204,4 +204,5 @@ function endQuiz() {
         <p>Your final score is: ${score}</p>
     `;
 }
+}
 
